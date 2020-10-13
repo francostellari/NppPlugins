@@ -1,0 +1,15 @@
+This zip files contains four files:
+install.txt
+license.txt
+xxxA.dll
+xxxU.dll
+
+Please read the license.txt before proceeding.
+
+Two versions of the the same plugin are includende:
+xxxA.dll is an ASCII version of the plugin to be used with the older ASCII versions of NotePad++, 
+xxxU.dll is an Unicode version of the same plugin to be used with the new Unicode versions of NotePad++.
+
+Only one of the two DLL should be copied in the plugin folder and used at a given time depending on the version of NotePad++ you are using.
+
+If only one DLL is provided, it is a Unicode version.
