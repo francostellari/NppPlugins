@@ -8,3 +8,6 @@ If you decide to try or use any of the software provided below please be advise 
 Although the plugins below are free to distribute, install, and use, the source code is not available at the moment.
 It may become in the future when the plugins become obsolete or abandoned.
 If you are looking for examples, please check the Sourceforge web site.
+## List of available plugins:
+* **Autosave** allows to automatically save the currently open files based on a timer schedule (default is 1 min) and/or upon the application losing focus. The plugin offers several options to save the current (or all the files), selecting only the named ones, accessible through an options dialog box
+* **LanguageHelp** allows to load a language specific help file (CHM, HLP, PDF) and search for the keyword under the cursor. The latest version allows also to show the help files as menu entries or in the context menu.
