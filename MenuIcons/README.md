@@ -1,4 +1,4 @@
-# Menu Icons plugin (a.k.a. MenuIcons)
+# Menu Icons plugin (*a.k.a.* MenuIcons)
 
 *Menu Icons* is a Notepad++ plugin designed to make the menus and tab more beautiful by adding:
 * icons to stabdard menu items
