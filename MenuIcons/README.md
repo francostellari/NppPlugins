@@ -9,7 +9,7 @@ Icons for the standard menu items can be provided as *icon* files in a folder, w
 
 MenuIcons allows to add icons to both main and context menu. Several options are available to load the icons from a folder. More than provide a full set of icons, it's design to enable people to create their own set of icon themes. Note: the plugin does not work correctly on WinXP. Alternative icon sets: [English by Yaron](http://www.google.com/url?q=http%3A%2F%2Fsourceforge.net%2Fp%2Fnotepad-plus%2Fdiscussion%2F482781%2Fthread%2Fdb6db280%2F8b56%2Fattachment%2FMenuIcons%2520English.zip&sa=D&sntz=1&usg=AOvVaw3xhFVfsCSP2rdTMNRqupdM), [Hebrew by Yaron](http://www.google.com/url?q=http%3A%2F%2Fsourceforge.net%2Fp%2Fnotepad-plus%2Fdiscussion%2F482781%2Fthread%2Fdb6db280%2F8b56%2Fattachment%2FMenuIcons%2520Hebrew.zip&sa=D&sntz=1&usg=AOvVaw0-R0qReB6hjvo1rAJigmsw). Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
-## v2.00 (2022-10-16)
+## v2.00 (2022-10-17)
 
 Significant refactoring of the code to improve icon management and thus enable fixing some long outstanding issues with the menu icons disappearing in some circumstances.
 
