@@ -2,12 +2,12 @@
 RunMe allows to execute the currently open file, based on its shell association. The plugin allows also to open an explorer or command shell at the file location. Options are available to same the current file (or all the files) before execution. The executed file can be run in foreground,background, or hidden mode. Context menu entries and tool bar icons are available.
 
 ## v1.60 (2022-10-18)
-Added: menu icons for "Run with arguments" and "Run as administrator"
-Added: Toolbar entries for "Run with arguments" and "Run as administrator"
-Added: Tab context menu entries for "Run with arguments" and "Run as administrator"
-Added: Run me with a custom *verb*
-Fix: Cancelling a "Run me w/ arguments" would not stop the run
-Fix: Remove the tab flickering for save all unamed buffers before running
+* Added: menu icons for "Run with arguments" and "Run as administrator"
+* Added: Toolbar entries for "Run with arguments" and "Run as administrator"
+* Added: Tab context menu entries for "Run with arguments" and "Run as administrator"
+* Added: Run me with a custom *verb*
+* Fix: Cancelling a "Run me w/ arguments" would not stop the run
+* Fix: Remove the tab flickering for save all unamed buffers before running
 
 ## v1.50
 Added: run as administrator feature (accessible via menu)
