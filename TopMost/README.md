@@ -1,6 +1,10 @@
 # Top Most plugin (*a.k.a.* TopMost)
 TopMost allows to set the main Notepad++ window as a topmost window so it can stay on top of other windows even when it is not active. This plugin sync with Notepad++ own stay on top functionality and allows to remember the setting between restarts as well as to show a toolbar button.
 
+## 1v41 (2022-10-18)
+- Fixed some icons
+- Initially not working on Win11
+
 ## 1v40 (2016-10-11)
 Added 64-bit version
 
