@@ -16,6 +16,7 @@ Alternative icon sets:
 * [English by Yaron](http://www.google.com/url?q=http%3A%2F%2Fsourceforge.net%2Fp%2Fnotepad-plus%2Fdiscussion%2F482781%2Fthread%2Fdb6db280%2F8b56%2Fattachment%2FMenuIcons%2520English.zip&sa=D&sntz=1&usg=AOvVaw3xhFVfsCSP2rdTMNRqupdM), 
 * [Hebrew by Yaron](http://www.google.com/url?q=http%3A%2F%2Fsourceforge.net%2Fp%2Fnotepad-plus%2Fdiscussion%2F482781%2Fthread%2Fdb6db280%2F8b56%2Fattachment%2FMenuIcons%2520Hebrew.zip&sa=D&sntz=1&usg=AOvVaw0-R0qReB6hjvo1rAJigmsw),
 * [Russian by vodek3](https://github.com/francostellari/NppPlugins/files/10197405/MenuIcons.Russian.zip).
+
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
 ## v2.01 (2022-12-27)
