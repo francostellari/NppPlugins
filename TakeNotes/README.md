@@ -1,6 +1,9 @@
 # Take Notes plugin (*a.k.a.* TakeNotes)
 TakeNotes is designed to help people who like to use Notepad++ for jotting quick notes. Instead of using unnamed "new ?" files, this plugins allows to quickly create new empty files in a folder of choice. The file names may be custom generated using a mask and may contain details such as the user name, date, and time of creation so that unique files may be generated. Additionally, the plugin allows to load exiting notes in the folder of choice, save existing files as a note, and open the last saved note quickly. Please refer to the Options dialog box for more details. It is strongly recommended to use this plugin in combination with AutoSave to make sure that you never loose a note.
 
+## v1.24 (2022-12-27)
+* Fix a problem with $WORD$ keywork not being used when creating a new note.
+
 ## v1.20 (2016-10-11)
 Added 64-bit version
 

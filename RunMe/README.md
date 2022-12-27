@@ -1,6 +1,9 @@
 # Run Me plugin (*a.k.a.* RunMe)
 RunMe allows to execute the currently open file, based on its shell association. The plugin allows also to open an explorer or command shell at the file location. Options are available to same the current file (or all the files) before execution. The executed file can be run in foreground,background, or hidden mode. Context menu entries and tool bar icons are available.
 
+## v1.61 (2022-12-27)
+* Fix a problem with saving settings to INI file.
+
 ## v1.60 (2022-10-18)
 * Added: menu icons for "Run with arguments" and "Run as administrator"
 * Added: Toolbar entries for "Run with arguments" and "Run as administrator"
