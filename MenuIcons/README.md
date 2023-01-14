@@ -19,6 +19,10 @@ Alternative icon sets:
 
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
+## v2.02 (2023-01-14)
+
+* Fix problem with using menu id (Issue #38)
+
 ## v2.01 (2022-12-27)
 
 * Fix tab icon problem when renaming the file
