@@ -3,7 +3,7 @@ AutoSave allows to automatically save the currently open files based on a timer 
 
 ## v2.00
 Major code rework breaking previous features
-- Removed: various file checking features to simplofy the behavior
+- Removed: various file checking features to simplify the behavior
 - Fix: tab flipping to save only named files
 - Added: save on tab change feature
 - Added: save on Notepad++ exit
