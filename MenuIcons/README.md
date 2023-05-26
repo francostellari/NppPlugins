@@ -20,6 +20,10 @@ Alternative icon sets:
 
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
+## v2.03 (2023-05-26)
+
+* Fix a problem with menu items containing some special characters: < > " '
+
 ## v2.02 (2023-01-14)
 
 * Fix problem with using menu id ([Issue #38](https://github.com/francostellari/NppPlugins/issues/38))
