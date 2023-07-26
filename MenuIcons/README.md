@@ -20,6 +20,10 @@ Alternative icon sets:
 
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
+## v2.04 (2023-07-26)
+
+* Fix Issue #48: Encoding in MenuIcons.txt
+
 ## v2.03 (2023-05-26)
 
 * Fix a problem with menu items containing some special characters: < > " '
