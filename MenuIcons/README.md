@@ -20,6 +20,11 @@ Alternative icon sets:
 
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
+## v2.05 (2023-10-09)
+
+* Fix issue #54: regression for unicode "..."
+* Fix issue #56: problem moving tabs aroubnd
+
 ## v2.04 (2023-07-26)
 
 * Fix Issue #48: Encoding in MenuIcons.txt
