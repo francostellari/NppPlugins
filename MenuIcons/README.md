@@ -20,6 +20,10 @@ Alternative icon sets:
 
 Just download them and replace the MenuIcon folder or save them somewhere else and set the new folder in the Menu Icons plugin options.
 
+## v2.06 (2023-11-20)
+
+* Fix issue #58: limit the file icons to File/Windows sub-menues
+
 ## v2.05 (2023-10-09)
 
 * Fix issue #54: regression for unicode "..."
